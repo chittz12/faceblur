@@ -1,1 +1,1 @@
-# faceblur
+# Live video face blur
